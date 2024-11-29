@@ -1,0 +1,82 @@
+[
+ [
+  {
+   "question": ")what was the immediate impact of the success of the manhattan project?",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['The presence of communication amid scientific minds was equally important to the success of the Manhattan Project as scientific intellect was. The only cloud hanging over the impressive achievement of the atomic researchers and engineers is what their success truly meant; hundreds of thousands of innocent lives obliterated.'] \n\nQuery: )what was the immediate impact of the success of the manhattan project? \n\nAnswer:",
+   "output": "The immediate impact of the success of the manhattan project was the creation of the atomic bomb.",
+   "correct_answer": "The immediate impact of the success of the Manhattan Project was the end of World War II following the atomic bombings of Hiroshima and Nagasaki."
+  }
+ ],
+ [
+  {
+   "question": "_________ justice is designed to repair the harm to victim, the community and the offender caused by the offender criminal act. question 19 options:",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['The approach is based on a theory of justice that considers crime and wrongdoing to be an offense against an individual or community, rather than the State. Restorative justice that fosters dialogue between victim and offender has shown the highest rates of victim satisfaction and offender accountability.'] \n\nQuery: _________ justice is designed to repair the harm to victim, the community and the offender caused by the offender criminal act. question 19 options: \n\nAnswer:",
+   "output": "_________ justice is designed to repair the harm to victim, the community and the offender caused by the offender criminal act. question 20 options:",
+   "correct_answer": "Restorative"
+  }
+ ],
+ [
+  {
+   "question": "what color is amber urine",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['Colorâ\\x80\\x94urine can be a variety of colors, most often shades of yellow, from very pale or colorless to very dark or amber. Unusual or abnormal urine colors can be the result of a disease process, several medications (e.g., multivitamins can turn urine bright yellow), or the result of eating certain foods.'] \n\nQuery: what color is amber urine \n\nAnswer:",
+   "output": "amber urine is a color that is not normally seen in healthy people. It is a result of a disease process, such as a kidney disease, or eating certain foods.",
+   "correct_answer": "Dark yellow."
+  }
+ ],
+ [
+  {
+   "question": "is autoimmune hepatitis a bile acid synthesis disorder",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['Inborn errors of bile acid synthesis can produce life-threatening cholestatic liver disease (which usually presents in infancy) and progressive neurological disease presenting later in childhood or in adult life.he neurological presentation often includes signs of upper motor neurone damage (spastic paraparesis). The most useful screening test for many of these disorders is analysis of urinary cholanoids (bile acids and bile alcohols); this is usually now achieved by electrospray ionisation tandem mass spectrometry.'] \n\nQuery: is autoimmune hepatitis a bile acid synthesis disorder \n\nAnswer:",
+   "output": "Yes.",
+   "correct_answer": "No."
+  }
+ ],
+ [
+  {
+   "question": "elegxo meaning",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['The word convict here (elegcw /elegxo) means to bring to light or expose error often with the idea of reproving or rebuking. It brings about knowledge of believing or doing something wrong, but it does not mean that the person will respond properly to that knowledge. Our usage of the English word, convict, is similar.'] \n\nQuery: elegxo meaning \n\nAnswer:",
+   "output": "I don't know.",
+   "correct_answer": "Control or check"
+  }
+ ],
+ [
+  {
+   "question": "how much does an average person make for tutoring",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['In-home tutors can earn anywhere from $10 to $80 an hour, depending on the type of lesson, the studentâ\\x80\\x99s skill and age level and the tutorâ\\x80\\x99s experience. Tutors often charge more for older students or those who require more advanced lessons.'] \n\nQuery: how much does an average person make for tutoring \n\nAnswer:",
+   "output": "$10 to $80 an hour",
+   "correct_answer": "The average hourly rate for tutoring varies widely, typically ranging from $25 to $80."
+  }
+ ],
+ [
+  {
+   "question": "can you use a calculator on the compass test",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['Calculators may be used on the COMPASS Pre-Algebra, Algebra, College Algebra, Geometry, and Trigonometry tests provided they meet the requirements listed below. Electronic writing pads or pen-input devicesâ\\x80\\x94The Sharp EL 9600 is permitted. Models with paper tapesâ\\x80\\x94The paper must be removed.'] \n\nQuery: can you use a calculator on the compass test \n\nAnswer:",
+   "output": "Yes, you can use a calculator on the compass test.",
+   "correct_answer": "Yes, on some sections."
+  }
+ ],
+ [
+  {
+   "question": "what does physical medicine do",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['Doctor Directory. A physiatrist practices in the field of physiatry - also called physical medicine and rehabilitation - which is a branch of medicine that specializes in diagnosis, treatment, and management of disease primarily using physical means, such as physical therapy and medications.'] \n\nQuery: what does physical medicine do \n\nAnswer:",
+   "output": "Physical medicine is the study of the human body and its functions. It is concerned with the diagnosis, treatment, and management of disease.",
+   "correct_answer": "Physical medicine, also known as physiatry, focuses on restoring function and quality of life to people with physical impairments or disabilities."
+  }
+ ],
+ [
+  {
+   "question": "what does pending mean on listing",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: ['Active/Pending = Usually that means the seller would like to get more offers. Savvy agents want back-up offers in place. If you made an offer to purchase a property and the seller agreed to the price, but already has a buyer in contract, you would be the 1st position back-up buyer.'] \n\nQuery: what does pending mean on listing \n\nAnswer:",
+   "output": "'Pending means that the seller has not yet accepted the offer. The seller may accept the offer, but not yet have a buyer in contract. The seller may accept the offer, but not yet have a buyer in contract. The seller may accep",
+   "correct_answer": "Pending on a listing means an offer has been accepted and the sale is in progress, but not yet finalized."
+  }
+ ],
+ [
+  {
+   "question": "feeding rice cereal how many times per day",
+   "input_prompt": "You are a helpful assistant, below is a query from a user and some relevant contexts. Answer the question given the information in those contexts. Your answer should be short and concise. If you cannot find the answer to the question, just say \"I don't know\". \n\nContexts: [\"1. Begin with rice cereal on days 1,2 and 3, offering it twice daily at breakfast and dinnertime. Rice cereal can be mixed with water or milk(breast or formula) to make a thin oatmeal like consistency. The infant should be offered a rubberized spoon. During these first three days, offer 3-4 tablespoons at a time but be flexible. Some infants will be very hungry and want more- that's OK.\"] \n\nQuery: feeding rice cereal how many times per day \n\nAnswer:",
+   "output": "\"I don't know\"",
+   "correct_answer": "2-3 times per day"
+  }
+ ]
+]
