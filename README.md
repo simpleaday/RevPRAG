@@ -37,7 +37,7 @@ When running our code, the datasets will be automatically downloaded and saved i
 
 ## Replicating Our Experiments
 1. Fill the Target Path: Specify the directory where you wish the datasets and models to be stored.
-2. Run Poisoned Data Collection: Execute python ``run.py`` in the terminal.
+2. Run Poisoned Data Collection: Directly execute python ``run.py`` in the terminal to call the ``get_poisoned_data.py`` for data collection.
 3. Execute Prepare Data: Run python ``manage_save_data_h5.py`` in the terminal.
 4. Train the Model: Execute python ``train_model_test`` in the terminal.
 
