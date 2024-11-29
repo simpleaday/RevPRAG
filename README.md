@@ -18,7 +18,7 @@ Our experiments leverage several Large Language Models (LLMs) and retrievers fro
 - ance：[View on Huggingface](https://huggingface.co/sentence-transformers/msmarco-roberta-base-ance-firstp)
 
 
-# Computational Environment
+# Setup Environment
 
 
 # Dataset and Codebase
