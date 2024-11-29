@@ -12,8 +12,8 @@ Our experiments leverage several Large Language Models (LLMs) and retrievers fro
 ## retrievers
 - contriever：[View on Huggingface](https://huggingface.co/facebook/contriever)
 - contriever-msmarco：[View on Huggingface](https://huggingface.co/facebook/contriever-msmarco)
-- dpr-multi：[View on Huggingface](facebook/dpr-ctx_encoder-multiset-base)
-- ance：[View on Huggingface](sentence-transformers/msmarco-roberta-base-ance-firstp)
+- dpr-multi：[View on Huggingface](https://huggingface.co/facebook/dpr-ctx_encoder-multiset-base)
+- ance：[View on Huggingface](https://huggingface.co/sentence-transformers/msmarco-roberta-base-ance-firstp)
 
 
 # Computational Environment
